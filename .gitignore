@@ -1,0 +1,18 @@
+# Mac OSX
+.DS_Store
+
+# Eclipse
+.project
+.settings
+.classpath
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target
+
+build/
+test-output/
+.tern-project
